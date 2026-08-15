@@ -18,7 +18,7 @@
     <string name="item_adamantite_ore_name">Bijih Adamantit</string>
     <string name="item_adamantite_ore_desc">Bijih yang sangat keras dan sangat langka.</string>
     <string name="item_platinum_ore_name">Bijih Platina</string>
-    <string name="item_platinum_ore_desc">A rare platinum ore used for platinum bars.</string> <!-- untranslated -->
+    <string name="item_platinum_ore_desc">Bijih platina langka yang digunakan untuk membuat batangan platina.</string>
     <string name="item_runite_ore_name">Bijih Runit</string>
     <string name="item_runite_ore_desc">Bijih tertambang paling langka, digunakan untuk peralatan terkuat.</string>
     <string name="item_rune_essence_name">Esensi Rune</string>
@@ -336,7 +336,7 @@
     <string name="item_runite_pickaxe_name">Beliung Runit</string>
     <string name="item_runite_pickaxe_desc">Beliung terbaik yang tersedia untuk Pertambangan.</string>
     <string name="item_divine_pickaxe_name">Divine Pickaxe</string> <!-- untranslated -->
-    <string name="item_divine_pickaxe_desc">A pickaxe touched by divine light. Stone parts before it like water.</string> <!-- untranslated -->
+    <string name="item_divine_pickaxe_desc">Beliung yang tersentuh cahaya ilahi. Batu terbelah di hadapannya seperti air.</string>
 
     <!-- Tools — axes -->
     <string name="item_bronze_axe_name">Kapak Perunggu</string>
@@ -352,7 +352,7 @@
     <string name="item_runite_axe_name">Kapak Runit</string>
     <string name="item_runite_axe_desc">Kapak terbaik yang tersedia untuk Menebang Kayu.</string>
     <string name="item_divine_axe_name">Divine Axe</string> <!-- untranslated -->
-    <string name="item_divine_axe_desc">An axe that fells even the oldest trees with a single blow.</string> <!-- untranslated -->
+    <string name="item_divine_axe_desc">Kapak yang menumbangkan bahkan pohon tertua dengan satu tebasan.</string>
 
     <!-- Tools — fishing rods -->
     <string name="item_bronze_fishing_rod_name">Joran Pancing Perunggu</string>
@@ -368,7 +368,7 @@
     <string name="item_runite_fishing_rod_name">Joran Pancing Runit</string>
     <string name="item_runite_fishing_rod_desc">Joran pancing terbaik yang tersedia.</string>
     <string name="item_divine_fishing_rod_name">Divine Fishing Rod</string> <!-- untranslated -->
-    <string name="item_divine_fishing_rod_desc">A rod blessed by the sea gods. Fish practically leap onto it.</string> <!-- untranslated -->
+    <string name="item_divine_fishing_rod_desc">Joran pancing yang diberkati dewa laut. Ikan-ikan hampir melompat ke atasnya.</string>
 
     <!-- ===== Arrows ===== -->
     <string name="item_bronze_arrow_name">Anak Panah Perunggu</string>
@@ -569,12 +569,12 @@
     <string name="crop_dragon_fruit_name">Buah Naga</string>
     <string name="crop_golden_wheat_name">Gandum Emas</string>
     <string name="crop_spirit_herb_name">Herba Roh</string>
-    <string name="crop_spirit_herb_desc">A rare herb used in high-level herblore.</string> <!-- untranslated -->
+    <string name="crop_spirit_herb_desc">Herba langka yang digunakan dalam pembuatan ramuan tingkat tinggi.</string>
     <string name="crop_celestial_bloom_name">Bunga Langit</string>
-    <string name="crop_celestial_bloom_desc">An ethereal flower used in master potions.</string> <!-- untranslated -->
+    <string name="crop_celestial_bloom_desc">Bunga halus yang digunakan dalam ramuan master.</string>
     <string name="crop_starfruit_name">Belimbing</string>
     <string name="crop_void_lotus_name">Teratai Hampa</string>
-    <string name="crop_void_lotus_desc">A mysterious lotus used in the rarest concoctions.</string> <!-- untranslated -->
+    <string name="crop_void_lotus_desc">Teratai misterius yang digunakan dalam ramuan paling langka.</string>
 
     <!-- ===== Spells ===== -->
     <string name="spell_wind_strike_name">Serangan Angin</string>
@@ -660,11 +660,11 @@
 
     <!-- ===== Carnival prizes ===== -->
     <string name="item_tricksters_amulet_name">Trickster\'s Amulet</string> <!-- untranslated -->
-    <string name="item_tricksters_amulet_desc">A lucky charm worn by carnival performers. Grants a small combat edge.</string> <!-- untranslated -->
+    <string name="item_tricksters_amulet_desc">Jimat keberuntungan yang dikenakan para pemain karnaval. Memberikan sedikit keunggulan bertarung.</string>
     <string name="item_strongmans_sigil_name">Strongman\'s Sigil</string> <!-- untranslated -->
-    <string name="item_strongmans_sigil_desc">A heavy iron ring etched with the mark of the strongman champion. Boosts Strength.</string> <!-- untranslated -->
+    <string name="item_strongmans_sigil_desc">Cincin besi berat berukir tanda juara orang kuat. Meningkatkan Kekuatan.</string>
     <string name="item_carnival_cape_name">Carnival Cape</string> <!-- untranslated -->
-    <string name="item_carnival_cape_desc" formatted="false">A vibrant cape worn by carnival champions. Grants 5% more tickets from Carnival sessions.</string> <!-- untranslated -->
+    <string name="item_carnival_cape_desc" formatted="false">Jubah cerah yang dikenakan juara karnaval. Memberikan 5% lebih banyak tiket dari sesi Karnaval.</string>
 
     <!-- Herblore potions -->
     <string name="item_attack_brew_name">Bir Serangan</string>
@@ -717,7 +717,7 @@
     <string name="item_mithril_nail_name">Paku Mithril</string>
     <string name="item_runite_nail_name">Runite Nail</string> <!-- untranslated -->
     <string name="item_stone_name">Batu</string>
-    <string name="item_stone_desc">A block of stone. Used for construction.</string> <!-- untranslated -->
+    <string name="item_stone_desc">Sebongkah batu. Digunakan untuk konstruksi.</string>
     <string name="item_carved_stone_name">Batu Ukir</string>
     <string name="item_stone_block_name">Blok Batu</string>
 
@@ -737,37 +737,37 @@
 
     <!-- ===== Seed names ===== -->
     <string name="item_potato_seed_name">Benih Kentang</string>
-    <string name="item_potato_seed_desc">Plant to grow potatoes. Grows in 2h.\nRequires farming level 1.</string> <!-- untranslated -->
+    <string name="item_potato_seed_desc">Tanam untuk menumbuhkan kentang. Tumbuh dalam 2 jam.\nMembutuhkan level Bercocok Tanam 1.</string>
     <string name="item_onion_seed_name">Benih Bawang</string>
-    <string name="item_onion_seed_desc">Plant to grow onions. Grows in 3h.\nRequires farming level 5.</string> <!-- untranslated -->
+    <string name="item_onion_seed_desc">Tanam untuk menumbuhkan bawang. Tumbuh dalam 3 jam.\nMembutuhkan level Bercocok Tanam 5.</string>
     <string name="item_cabbage_seed_name">Benih Kubis</string>
-    <string name="item_cabbage_seed_desc">Plant to grow cabbage. Grows in 4h.\nRequires farming level 10.</string> <!-- untranslated -->
+    <string name="item_cabbage_seed_desc">Tanam untuk menumbuhkan kubis. Tumbuh dalam 4 jam.\nMembutuhkan level Bercocok Tanam 10.</string>
     <string name="item_carrot_seed_name">Benih Wortel</string>
-    <string name="item_carrot_seed_desc">Plant to grow carrots. Grows in 5h.\nRequires farming level 15.</string> <!-- untranslated -->
+    <string name="item_carrot_seed_desc">Tanam untuk menumbuhkan wortel. Tumbuh dalam 5 jam.\nMembutuhkan level Bercocok Tanam 15.</string>
     <string name="item_tomato_seed_name">Benih Tomat</string>
-    <string name="item_tomato_seed_desc">Plant to grow tomatoes. Grows in 6h.\nRequires farming level 20.</string> <!-- untranslated -->
+    <string name="item_tomato_seed_desc">Tanam untuk menumbuhkan tomat. Tumbuh dalam 6 jam.\nMembutuhkan level Bercocok Tanam 20.</string>
     <string name="item_corn_seed_name">Benih Jagung</string>
-    <string name="item_corn_seed_desc">Plant to grow corn. Grows in 7h.\nRequires farming level 25.</string> <!-- untranslated -->
+    <string name="item_corn_seed_desc">Tanam untuk menumbuhkan jagung. Tumbuh dalam 7 jam.\nMembutuhkan level Bercocok Tanam 25.</string>
     <string name="item_pumpkin_seed_name">Benih Labu</string>
-    <string name="item_pumpkin_seed_desc">Plant to grow pumpkins. Grows in 9h.\nRequires farming level 30.</string> <!-- untranslated -->
+    <string name="item_pumpkin_seed_desc">Tanam untuk menumbuhkan labu. Tumbuh dalam 9 jam.\nMembutuhkan level Bercocok Tanam 30.</string>
     <string name="item_watermelon_seed_name">Benih Semangka</string>
-    <string name="item_watermelon_seed_desc">Plant to grow watermelons. Grows in 10h.\nRequires farming level 35.</string> <!-- untranslated -->
+    <string name="item_watermelon_seed_desc">Tanam untuk menumbuhkan semangka. Tumbuh dalam 10 jam.\nMembutuhkan level Bercocok Tanam 35.</string>
     <string name="item_strawberry_seed_name">Benih Stroberi</string>
-    <string name="item_strawberry_seed_desc">Plant to grow strawberries. Grows in 11h.\nRequires farming level 40.</string> <!-- untranslated -->
+    <string name="item_strawberry_seed_desc">Tanam untuk menumbuhkan stroberi. Tumbuh dalam 11 jam.\nMembutuhkan level Bercocok Tanam 40.</string>
     <string name="item_magic_herb_seed_name">Benih Herba Ajaib</string>
-    <string name="item_magic_herb_seed_desc">Plant to grow magic herbs. Grows in 13h.\nRequires farming level 50.</string> <!-- untranslated -->
+    <string name="item_magic_herb_seed_desc">Tanam untuk menumbuhkan herba ajaib. Tumbuh dalam 13 jam.\nMembutuhkan level Bercocok Tanam 50.</string>
     <string name="item_dragon_fruit_seed_name">Benih Buah Naga</string>
-    <string name="item_dragon_fruit_seed_desc">Plant to grow dragon fruit. Grows in 14h.\nRequires farming level 55.</string> <!-- untranslated -->
+    <string name="item_dragon_fruit_seed_desc">Tanam untuk menumbuhkan buah naga. Tumbuh dalam 14 jam.\nMembutuhkan level Bercocok Tanam 55.</string>
     <string name="item_golden_wheat_seed_name">Benih Gandum Emas</string>
-    <string name="item_golden_wheat_seed_desc">Plant to grow golden wheat. Grows in 16h.\nRequires farming level 65.</string> <!-- untranslated -->
+    <string name="item_golden_wheat_seed_desc">Tanam untuk menumbuhkan gandum emas. Tumbuh dalam 16 jam.\nMembutuhkan level Bercocok Tanam 65.</string>
     <string name="item_spirit_seed_name">Benih Herba Roh</string>
-    <string name="item_spirit_seed_desc">Plant to grow spirit herbs. Grows in 19h.\nRequires farming level 75.</string> <!-- untranslated -->
+    <string name="item_spirit_seed_desc">Tanam untuk menumbuhkan herba roh. Tumbuh dalam 19 jam.\nMembutuhkan level Bercocok Tanam 75.</string>
     <string name="item_celestial_bloom_seed_name">Benih Bunga Langit</string>
-    <string name="item_celestial_bloom_seed_desc">Plant to grow celestial blooms. Grows in 21h.\nRequires farming level 85.</string> <!-- untranslated -->
+    <string name="item_celestial_bloom_seed_desc">Tanam untuk menumbuhkan bunga langit. Tumbuh dalam 21 jam.\nMembutuhkan level Bercocok Tanam 85.</string>
     <string name="item_starfruit_seed_name">Benih Belimbing</string>
-    <string name="item_starfruit_seed_desc">Plant to grow starfruit. Grows in 23h.\nRequires farming level 95.</string> <!-- untranslated -->
+    <string name="item_starfruit_seed_desc">Tanam untuk menumbuhkan belimbing. Tumbuh dalam 23 jam.\nMembutuhkan level Bercocok Tanam 95.</string>
     <string name="item_void_lotus_seed_name">Benih Teratai Hampa</string>
-    <string name="item_void_lotus_seed_desc">Plant to grow void lotus. Grows in 24h.\nRequires farming level 99.</string> <!-- untranslated -->
+    <string name="item_void_lotus_seed_desc">Tanam untuk menumbuhkan teratai hampa. Tumbuh dalam 24 jam.\nMembutuhkan level Bercocok Tanam 99.</string>
 
 
     <!-- Additional item/boss/food names (English placeholders) -->
@@ -785,15 +785,15 @@
 
 
 
-    <string name="item_amulet_of_fury_desc">A powerful amulet granting bonuses to all combat styles. Requires Mercantile level 80 to purchase.</string> <!-- untranslated -->
+    <string name="item_amulet_of_fury_desc">Jimat kuat yang memberikan bonus untuk semua gaya bertarung. Membutuhkan level Perdagangan 80 untuk dibeli.</string>
 
-    <string name="item_amulet_of_strength_desc">Increases melee strength bonus. Requires Mercantile level 20 to purchase.</string> <!-- untranslated -->
+    <string name="item_amulet_of_strength_desc">Meningkatkan bonus kekuatan jarak dekat. Membutuhkan level Perdagangan 20 untuk dibeli.</string>
 
     <string name="item_arcane_grappling_hook_name">Kait Bergulat Arkana</string>
 
 
 
-    <string name="item_archers_ring_desc">Increases ranged accuracy. Requires Mercantile level 60 to purchase.</string> <!-- untranslated -->
+    <string name="item_archers_ring_desc">Meningkatkan akurasi jarak jauh. Membutuhkan level Perdagangan 60 untuk dibeli.</string>
 
 
 
@@ -801,7 +801,7 @@
 
     <string name="item_beef_name">Daging Sapi Panggang</string>
 
-    <string name="item_berserker_ring_desc">Increases melee strength. Requires Mercantile level 60 to purchase.</string> <!-- untranslated -->
+    <string name="item_berserker_ring_desc">Meningkatkan kekuatan jarak dekat. Membutuhkan level Perdagangan 60 untuk dibeli.</string>
 
 
 
@@ -897,7 +897,7 @@
 
     <string name="item_mutton_name">Daging Domba Panggang</string>
 
-    <string name="item_necklace_of_anguish_desc">Provides exceptional ranged attack bonuses. Requires Mercantile level 99 to purchase.</string> <!-- untranslated -->
+    <string name="item_necklace_of_anguish_desc">Memberikan bonus serangan jarak jauh yang luar biasa. Membutuhkan level Perdagangan 99 untuk dibeli.</string>
 
 
 
@@ -906,12 +906,12 @@
 
 
 
-    <string name="item_ring_of_recoil_desc">Returns a portion of damage taken to attackers. Requires Mercantile level 20 to purchase.</string> <!-- untranslated -->
+    <string name="item_ring_of_recoil_desc">Memantulkan sebagian kerusakan yang diterima kepada penyerang. Membutuhkan level Perdagangan 20 untuk dibeli.</string>
 
-    <string name="item_ring_of_suffering_desc">A powerful ring that grants significant defense. Requires Mercantile level 80 to purchase.</string> <!-- untranslated -->
+    <string name="item_ring_of_suffering_desc">Cincin kuat yang memberikan pertahanan signifikan. Membutuhkan level Perdagangan 80 untuk dibeli.</string>
 
 
-    <string name="item_ring_of_wealth_desc">Increases coin drops slightly. Requires Mercantile level 40 to purchase.</string> <!-- untranslated -->
+    <string name="item_ring_of_wealth_desc">Sedikit meningkatkan koin yang dijatuhkan. Membutuhkan level Perdagangan 40 untuk dibeli.</string>
 
     <string name="item_rogues_lockpick_name">Pembuka Kunci Bandit</string>
 
@@ -928,7 +928,7 @@
 
 
 
-    <string name="item_seers_ring_desc">Increases magic accuracy. Requires Mercantile level 60 to purchase.</string> <!-- untranslated -->
+    <string name="item_seers_ring_desc">Meningkatkan akurasi sihir. Membutuhkan level Perdagangan 60 untuk dibeli.</string>
 
     <string name="item_shadow_grappling_hook_name">Kait Bergulat Bayangan</string>
     <string name="item_shadow_lockpick_name">Pembuka Kunci Bayangan</string>
@@ -957,7 +957,7 @@
 
 
 
-    <string name="item_tormented_necklace_desc">Provides exceptional magic bonuses. Requires Mercantile level 99 to purchase.</string> <!-- untranslated -->
+    <string name="item_tormented_necklace_desc">Memberikan bonus sihir yang luar biasa. Membutuhkan level Perdagangan 99 untuk dibeli.</string>
 
 
 
@@ -971,316 +971,316 @@
     <string name="item_sovereign_crown_desc">Mahkota Penguasa Kekosongan itu sendiri, memancarkan keagungan kegelapan. Menawarkan perlindungan yang tak tertandingi.</string>
     <string name="item_amulet_of_the_void_name">Jimat Kehampaan</string>
     <string name="item_amulet_of_the_void_desc">Liontin yang terbuat dari esensi kehampaan murni. Meningkatkan semua statistik tempur pemakainya.</string>
-    <string name="item_bronze_longsword_desc">A bronze longsword.</string> <!-- untranslated -->
-    <string name="item_iron_longsword_desc">A iron longsword.</string> <!-- untranslated -->
-    <string name="item_shadow_dagger_desc">A black-bladed dagger recovered from the Shadow Den. Wickedly sharp and perfectly balanced for close work.</string> <!-- untranslated -->
-    <string name="item_steel_dagger_desc">A steel dagger.</string> <!-- untranslated -->
-    <string name="item_steel_longsword_desc">A steel longsword.</string> <!-- untranslated -->
-    <string name="item_mithril_dagger_desc">A mithril dagger.</string> <!-- untranslated -->
-    <string name="item_mithril_longsword_desc">A mithril longsword.</string> <!-- untranslated -->
-    <string name="item_adamantite_dagger_desc">A adamantite dagger.</string> <!-- untranslated -->
-    <string name="item_adamantite_longsword_desc">A adamantite longsword.</string> <!-- untranslated -->
-    <string name="item_runite_dagger_desc">A runite dagger.</string> <!-- untranslated -->
-    <string name="item_runite_longsword_desc">A runite longsword.</string> <!-- untranslated -->
-    <string name="item_dragon_scimitar_desc">A razor-sharp scimitar forged from dragon metal.</string> <!-- untranslated -->
-    <string name="item_dragon_longsword_desc">A powerful longsword forged from dragon metal.</string> <!-- untranslated -->
-    <string name="item_dwarven_sword_desc">An ancient dwarven blade, forged in the depths of the earth.</string> <!-- untranslated -->
-    <string name="item_dwarven_scimitar_desc">A curved dwarven blade, perfect for rapid strikes.</string> <!-- untranslated -->
-    <string name="item_dwarven_warhammer_desc">A massive dwarven hammer that crushes all in its path.</string> <!-- untranslated -->
+    <string name="item_bronze_longsword_desc">Pedang panjang perunggu.</string>
+    <string name="item_iron_longsword_desc">Pedang panjang besi.</string>
+    <string name="item_shadow_dagger_desc">Belati berbilah hitam yang ditemukan dari Sarang Bayangan. Sangat tajam dan seimbang sempurna untuk pertarungan jarak dekat.</string>
+    <string name="item_steel_dagger_desc">Belati baja.</string>
+    <string name="item_steel_longsword_desc">Pedang panjang baja.</string>
+    <string name="item_mithril_dagger_desc">Belati mithril.</string>
+    <string name="item_mithril_longsword_desc">Pedang panjang mithril.</string>
+    <string name="item_adamantite_dagger_desc">Belati adamantit.</string>
+    <string name="item_adamantite_longsword_desc">Pedang panjang adamantit.</string>
+    <string name="item_runite_dagger_desc">Belati runit.</string>
+    <string name="item_runite_longsword_desc">Pedang panjang runit.</string>
+    <string name="item_dragon_scimitar_desc">Scimitar setajam silet yang ditempa dari logam naga.</string>
+    <string name="item_dragon_longsword_desc">Pedang panjang kuat yang ditempa dari logam naga.</string>
+    <string name="item_dwarven_sword_desc">Bilah kurcaci kuno, ditempa di kedalaman bumi.</string>
+    <string name="item_dwarven_scimitar_desc">Bilah kurcaci melengkung, sempurna untuk serangan cepat.</string>
+    <string name="item_dwarven_warhammer_desc">Palu kurcaci besar yang menghancurkan semua yang menghalanginya.</string>
     <string name="item_tower_sword_name">Tower Sword</string> <!-- untranslated -->
-    <string name="item_tower_sword_desc">A blade that has cleaved through countless tower floors.</string> <!-- untranslated -->
-    <string name="item_balrog_whip_desc">A whip of pure flame, torn from the Gothic Ember itself. Burns with an eternal fire.</string> <!-- untranslated -->
+    <string name="item_tower_sword_desc">Bilah yang telah membelah lantai menara yang tak terhitung jumlahnya.</string>
+    <string name="item_balrog_whip_desc">Cambuk api murni, dirobek dari Gothic Ember itu sendiri. Membakar dengan api abadi.</string>
     <string name="item_divine_sword_name">Divine Sword</string> <!-- untranslated -->
-    <string name="item_divine_sword_desc">A blade of pure divine light, said to be wielded only by the chosen.</string> <!-- untranslated -->
+    <string name="item_divine_sword_desc">Bilah cahaya ilahi murni, konon hanya bisa digunakan oleh yang terpilih.</string>
     <string name="item_divine_greatblade_name">Divine Greatblade</string> <!-- untranslated -->
-    <string name="item_divine_greatblade_desc">A massive divine blade that channels raw power into every swing.</string> <!-- untranslated -->
-    <string name="item_shortbow_desc">A shortbow crafted from regular logs.</string> <!-- untranslated -->
-    <string name="item_oak_shortbow_desc">A shortbow crafted from oak logs.</string> <!-- untranslated -->
-    <string name="item_willow_shortbow_desc">A shortbow crafted from willow logs.</string> <!-- untranslated -->
-    <string name="item_maple_shortbow_desc">A shortbow crafted from maple logs.</string> <!-- untranslated -->
-    <string name="item_yew_shortbow_desc">A shortbow crafted from yew logs.</string> <!-- untranslated -->
-    <string name="item_yew_longbow_desc">A longbow crafted from yew logs.</string> <!-- untranslated -->
-    <string name="item_magic_shortbow_desc">A shortbow crafted from magic logs.</string> <!-- untranslated -->
-    <string name="item_magic_longbow_desc">A longbow crafted from magic logs.</string> <!-- untranslated -->
+    <string name="item_divine_greatblade_desc">Bilah ilahi besar yang menyalurkan kekuatan mentah ke setiap ayunan.</string>
+    <string name="item_shortbow_desc">Busur pendek yang dibuat dari kayu gelondongan biasa.</string>
+    <string name="item_oak_shortbow_desc">Busur pendek yang dibuat dari kayu ek.</string>
+    <string name="item_willow_shortbow_desc">Busur pendek yang dibuat dari kayu dedalu.</string>
+    <string name="item_maple_shortbow_desc">Busur pendek yang dibuat dari kayu mapel.</string>
+    <string name="item_yew_shortbow_desc">Busur pendek yang dibuat dari kayu yew.</string>
+    <string name="item_yew_longbow_desc">Busur panjang yang dibuat dari kayu yew.</string>
+    <string name="item_magic_shortbow_desc">Busur pendek yang dibuat dari kayu ajaib.</string>
+    <string name="item_magic_longbow_desc">Busur panjang yang dibuat dari kayu ajaib.</string>
     <string name="item_tower_crossbow_name">Tower Crossbow</string> <!-- untranslated -->
-    <string name="item_tower_crossbow_desc">A precision crossbow wrought from tower metal.</string> <!-- untranslated -->
-    <string name="item_arcane_staff_desc">A staff recovered from the Arcane Ruins, still humming with contained magical energy from the catastrophe that destroyed the spire above.</string> <!-- untranslated -->
-    <string name="item_hellfire_staff_desc">A staff wreathed in demonic flame, torn from the Demon Lord\'s grasp.</string> <!-- untranslated -->
+    <string name="item_tower_crossbow_desc">Busur silang presisi yang ditempa dari logam menara.</string>
+    <string name="item_arcane_staff_desc">Tongkat yang ditemukan dari Reruntuhan Arkana, masih bergetar dengan energi magis yang terkandung dari bencana yang menghancurkan puncak menara di atasnya.</string>
+    <string name="item_hellfire_staff_desc">Tongkat yang diselimuti api iblis, dirampas dari genggaman Raja Iblis.</string>
     <string name="item_void_staff_name">Void Staff</string> <!-- untranslated -->
-    <string name="item_void_staff_desc">A staff of pure void energy. Grants infinite runes for all spells.</string> <!-- untranslated -->
-    <string name="item_trident_of_the_seas_desc">A fearsome trident imbued with the power of the deep, taken from the Kraken\'s lair.</string> <!-- untranslated -->
-    <string name="item_bronze_med_helmet_desc">A bronze med helmet.</string> <!-- untranslated -->
-    <string name="item_bronze_full_helmet_desc">A bronze full helmet.</string> <!-- untranslated -->
-    <string name="item_bronze_chainbody_desc">A bronze chainbody.</string> <!-- untranslated -->
-    <string name="item_bronze_plateskirt_desc">A bronze plateskirt.</string> <!-- untranslated -->
-    <string name="item_bronze_boots_desc">A pair of bronze boots.</string> <!-- untranslated -->
-    <string name="item_bronze_square_shield_desc">A bronze square shield.</string> <!-- untranslated -->
-    <string name="item_bronze_kiteshield_desc">A bronze kiteshield.</string> <!-- untranslated -->
-    <string name="item_iron_med_helmet_desc">A iron med helmet.</string> <!-- untranslated -->
-    <string name="item_iron_full_helmet_desc">A iron full helmet.</string> <!-- untranslated -->
-    <string name="item_iron_chainbody_desc">A iron chainbody.</string> <!-- untranslated -->
-    <string name="item_iron_plateskirt_desc">A iron plateskirt.</string> <!-- untranslated -->
-    <string name="item_iron_boots_desc">A pair of iron boots.</string> <!-- untranslated -->
-    <string name="item_iron_square_shield_desc">A iron square shield.</string> <!-- untranslated -->
-    <string name="item_iron_kiteshield_desc">A iron kiteshield.</string> <!-- untranslated -->
-    <string name="item_steel_med_helmet_desc">A steel med helmet.</string> <!-- untranslated -->
-    <string name="item_steel_full_helmet_desc">A steel full helmet.</string> <!-- untranslated -->
-    <string name="item_steel_chainbody_desc">A steel chainbody.</string> <!-- untranslated -->
-    <string name="item_steel_plateskirt_desc">A steel plateskirt.</string> <!-- untranslated -->
-    <string name="item_steel_boots_desc">A pair of steel boots.</string> <!-- untranslated -->
-    <string name="item_steel_square_shield_desc">A steel square shield.</string> <!-- untranslated -->
-    <string name="item_steel_kiteshield_desc">A steel kiteshield.</string> <!-- untranslated -->
-    <string name="item_mithril_med_helmet_desc">A mithril med helmet.</string> <!-- untranslated -->
-    <string name="item_mithril_full_helmet_desc">A mithril full helmet.</string> <!-- untranslated -->
-    <string name="item_mithril_chainbody_desc">A mithril chainbody.</string> <!-- untranslated -->
-    <string name="item_mithril_plateskirt_desc">A mithril plateskirt.</string> <!-- untranslated -->
-    <string name="item_mithril_boots_desc">A pair of mithril boots.</string> <!-- untranslated -->
-    <string name="item_mithril_square_shield_desc">A mithril square shield.</string> <!-- untranslated -->
-    <string name="item_mithril_kiteshield_desc">A mithril kiteshield.</string> <!-- untranslated -->
-    <string name="item_adamantite_med_helmet_desc">A adamantite med helmet.</string> <!-- untranslated -->
-    <string name="item_adamantite_full_helmet_desc">A adamantite full helmet.</string> <!-- untranslated -->
-    <string name="item_adamantite_chainbody_desc">A adamantite chainbody.</string> <!-- untranslated -->
-    <string name="item_adamantite_plateskirt_desc">A adamantite plateskirt.</string> <!-- untranslated -->
-    <string name="item_adamantite_boots_desc">A pair of adamantite boots.</string> <!-- untranslated -->
-    <string name="item_adamantite_square_shield_desc">A adamantite square shield.</string> <!-- untranslated -->
-    <string name="item_adamantite_kiteshield_desc">A adamantite kiteshield.</string> <!-- untranslated -->
-    <string name="item_runite_med_helmet_desc">A runite med helmet.</string> <!-- untranslated -->
-    <string name="item_runite_full_helmet_desc">A runite full helmet.</string> <!-- untranslated -->
-    <string name="item_runite_chainbody_desc">A runite chainbody.</string> <!-- untranslated -->
-    <string name="item_runite_plateskirt_desc">A runite plateskirt.</string> <!-- untranslated -->
-    <string name="item_runite_boots_desc">A pair of runite boots.</string> <!-- untranslated -->
-    <string name="item_runite_square_shield_desc">A runite square shield.</string> <!-- untranslated -->
-    <string name="item_runite_kiteshield_desc">A runite kiteshield.</string> <!-- untranslated -->
-    <string name="item_dwarven_helm_desc">A sturdy dwarven helmet, forged from ancient metals.</string> <!-- untranslated -->
-    <string name="item_dwarven_platebody_desc">Ancient dwarven armor, nearly impenetrable.</string> <!-- untranslated -->
-    <string name="item_dwarven_platelegs_desc">Dwarven leg armor, perfectly balanced for combat.</string> <!-- untranslated -->
-    <string name="item_dwarven_boots_desc">Masterwork dwarven boots, heavier than steel but nearly indestructible.</string> <!-- untranslated -->
-    <string name="item_dwarven_shield_desc">A dwarven shield that has withstood countless battles.</string> <!-- untranslated -->
-    <string name="item_dragon_boots_desc">A pair of dragon boots.</string> <!-- untranslated -->
+    <string name="item_void_staff_desc">Tongkat energi hampa murni. Memberikan rune tak terbatas untuk semua mantra.</string>
+    <string name="item_trident_of_the_seas_desc">Trisula menakutkan yang diberi kekuatan laut dalam, diambil dari sarang Kraken.</string>
+    <string name="item_bronze_med_helmet_desc">Helm perunggu berukuran sedang.</string>
+    <string name="item_bronze_full_helmet_desc">Helm perunggu tertutup penuh.</string>
+    <string name="item_bronze_chainbody_desc">Baju zirah rantai perunggu.</string>
+    <string name="item_bronze_plateskirt_desc">Rok zirah perunggu.</string>
+    <string name="item_bronze_boots_desc">Sepasang sepatu bot perunggu.</string>
+    <string name="item_bronze_square_shield_desc">Perisai persegi perunggu.</string>
+    <string name="item_bronze_kiteshield_desc">Perisai perunggu berbentuk layang-layang.</string>
+    <string name="item_iron_med_helmet_desc">Helm besi berukuran sedang.</string>
+    <string name="item_iron_full_helmet_desc">Helm besi tertutup penuh.</string>
+    <string name="item_iron_chainbody_desc">Baju zirah rantai besi.</string>
+    <string name="item_iron_plateskirt_desc">Rok zirah besi.</string>
+    <string name="item_iron_boots_desc">Sepasang sepatu bot besi.</string>
+    <string name="item_iron_square_shield_desc">Perisai persegi besi.</string>
+    <string name="item_iron_kiteshield_desc">Perisai besi berbentuk layang-layang.</string>
+    <string name="item_steel_med_helmet_desc">Helm baja berukuran sedang.</string>
+    <string name="item_steel_full_helmet_desc">Helm baja tertutup penuh.</string>
+    <string name="item_steel_chainbody_desc">Baju zirah rantai baja.</string>
+    <string name="item_steel_plateskirt_desc">Rok zirah baja.</string>
+    <string name="item_steel_boots_desc">Sepasang sepatu bot baja.</string>
+    <string name="item_steel_square_shield_desc">Perisai persegi baja.</string>
+    <string name="item_steel_kiteshield_desc">Perisai baja berbentuk layang-layang.</string>
+    <string name="item_mithril_med_helmet_desc">Helm mithril berukuran sedang.</string>
+    <string name="item_mithril_full_helmet_desc">Helm mithril tertutup penuh.</string>
+    <string name="item_mithril_chainbody_desc">Baju zirah rantai mithril.</string>
+    <string name="item_mithril_plateskirt_desc">Rok zirah mithril.</string>
+    <string name="item_mithril_boots_desc">Sepasang sepatu bot mithril.</string>
+    <string name="item_mithril_square_shield_desc">Perisai persegi mithril.</string>
+    <string name="item_mithril_kiteshield_desc">Perisai mithril berbentuk layang-layang.</string>
+    <string name="item_adamantite_med_helmet_desc">Helm adamantit berukuran sedang.</string>
+    <string name="item_adamantite_full_helmet_desc">Helm adamantit tertutup penuh.</string>
+    <string name="item_adamantite_chainbody_desc">Baju zirah rantai adamantit.</string>
+    <string name="item_adamantite_plateskirt_desc">Rok zirah adamantit.</string>
+    <string name="item_adamantite_boots_desc">Sepasang sepatu bot adamantit.</string>
+    <string name="item_adamantite_square_shield_desc">Perisai persegi adamantit.</string>
+    <string name="item_adamantite_kiteshield_desc">Perisai adamantit berbentuk layang-layang.</string>
+    <string name="item_runite_med_helmet_desc">Helm runit berukuran sedang.</string>
+    <string name="item_runite_full_helmet_desc">Helm runit tertutup penuh.</string>
+    <string name="item_runite_chainbody_desc">Baju zirah rantai runit.</string>
+    <string name="item_runite_plateskirt_desc">Rok zirah runit.</string>
+    <string name="item_runite_boots_desc">Sepasang sepatu bot runit.</string>
+    <string name="item_runite_square_shield_desc">Perisai persegi runit.</string>
+    <string name="item_runite_kiteshield_desc">Perisai runit berbentuk layang-layang.</string>
+    <string name="item_dwarven_helm_desc">Helm kurcaci yang kokoh, ditempa dari logam kuno.</string>
+    <string name="item_dwarven_platebody_desc">Baju zirah kurcaci kuno, hampir mustahil ditembus.</string>
+    <string name="item_dwarven_platelegs_desc">Zirah kaki kurcaci, seimbang sempurna untuk bertarung.</string>
+    <string name="item_dwarven_boots_desc">Sepatu bot kurcaci buatan mahakarya, lebih berat dari baja tetapi nyaris tak bisa dihancurkan.</string>
+    <string name="item_dwarven_shield_desc">Perisai kurcaci yang telah bertahan dalam pertempuran yang tak terhitung jumlahnya.</string>
+    <string name="item_dragon_boots_desc">Sepasang sepatu bot naga.</string>
     <string name="item_tower_helm_name">Tower Helm</string> <!-- untranslated -->
-    <string name="item_tower_helm_desc">A helmet carved from the tower\'s upper floors.</string> <!-- untranslated -->
+    <string name="item_tower_helm_desc">Helm yang diukir dari lantai atas menara.</string>
     <string name="item_tower_body_name">Tower Plate</string> <!-- untranslated -->
-    <string name="item_tower_body_desc">Impenetrable armour from the tower\'s inner sanctum.</string> <!-- untranslated -->
+    <string name="item_tower_body_desc">Zirah yang mustahil ditembus dari tempat suci bagian dalam menara.</string>
     <string name="item_tower_legs_name">Tower Greaves</string> <!-- untranslated -->
-    <string name="item_tower_legs_desc">Greaves forged in the tower\'s deepest forge.</string> <!-- untranslated -->
+    <string name="item_tower_legs_desc">Pelindung kaki yang ditempa di tempa terdalam menara.</string>
     <string name="item_tower_boots_name">Tower Boots</string> <!-- untranslated -->
-    <string name="item_tower_boots_desc">Boots forged in the tower\'s deepest forge.</string> <!-- untranslated -->
+    <string name="item_tower_boots_desc">Sepatu bot yang ditempa di tempa terdalam menara.</string>
     <string name="item_tower_shield_name">Tower Shield</string> <!-- untranslated -->
-    <string name="item_tower_shield_desc">A massive shield hewn from tower stone.</string> <!-- untranslated -->
-    <string name="item_balrog_wings_desc">The mighty wings of the Gothic Ember, imbued with dark power. The ultimate armor.</string> <!-- untranslated -->
+    <string name="item_tower_shield_desc">Perisai besar yang diukir dari batu menara.</string>
+    <string name="item_balrog_wings_desc">Sayap perkasa dari Gothic Ember, dipenuhi kekuatan gelap. Zirah pamungkas.</string>
     <string name="item_divine_helm_name">Divine Helm</string> <!-- untranslated -->
-    <string name="item_divine_helm_desc">A radiant helm blessed by the gods. Turns aside blows that would fell any mortal.</string> <!-- untranslated -->
+    <string name="item_divine_helm_desc">Helm bercahaya yang diberkati para dewa. Menangkis pukulan yang mampu menjatuhkan manusia mana pun.</string>
     <string name="item_divine_platebody_name">Divine Platebody</string> <!-- untranslated -->
-    <string name="item_divine_platebody_desc">Armour forged from celestial metal. Said to be nearly indestructible.</string> <!-- untranslated -->
+    <string name="item_divine_platebody_desc">Zirah yang ditempa dari logam selestial. Konon nyaris tak bisa dihancurkan.</string>
     <string name="item_divine_platelegs_name">Divine Platelegs</string> <!-- untranslated -->
-    <string name="item_divine_platelegs_desc">Leg armour of divine craft. Heavier than it looks, lighter than it should be.</string> <!-- untranslated -->
+    <string name="item_divine_platelegs_desc">Zirah kaki buatan ilahi. Lebih berat dari yang terlihat, lebih ringan dari seharusnya.</string>
     <string name="item_divine_boots_name">Divine Boots</string> <!-- untranslated -->
-    <string name="item_divine_boots_desc">Boots of divine make. Leave no footprints.</string> <!-- untranslated -->
+    <string name="item_divine_boots_desc">Sepatu bot buatan ilahi. Tidak meninggalkan jejak kaki.</string>
     <string name="item_divine_shield_name">Divine Shield</string> <!-- untranslated -->
-    <string name="item_divine_shield_desc">A blessed shield that radiates a faint golden light.</string> <!-- untranslated -->
-    <string name="item_silver_emerald_necklace_desc">A silver necklace with an emerald. Enhances ranged.</string> <!-- untranslated -->
-    <string name="item_silver_ruby_necklace_desc">A silver necklace with a ruby. Enhances melee.</string> <!-- untranslated -->
-    <string name="item_silver_diamond_necklace_desc">A silver necklace with a diamond. Balanced combat.</string> <!-- untranslated -->
+    <string name="item_divine_shield_desc">Perisai yang diberkati, memancarkan cahaya keemasan redup.</string>
+    <string name="item_silver_emerald_necklace_desc">Kalung perak dengan zamrud. Meningkatkan Jarak Jauh.</string>
+    <string name="item_silver_ruby_necklace_desc">Kalung perak dengan rubi. Meningkatkan jarak dekat.</string>
+    <string name="item_silver_diamond_necklace_desc">Kalung perak dengan berlian. Pertarungan seimbang.</string>
     <string name="item_tower_amulet_name">Tower Amulet</string> <!-- untranslated -->
-    <string name="item_tower_amulet_desc">An amulet pulsing with the tower\'s ancient power.</string> <!-- untranslated -->
-    <string name="item_dragon_amulet_desc">A powerful amulet forged from dragon scales. Enhances all combat styles.</string> <!-- untranslated -->
-    <string name="item_flame_heart_amulet_desc">The crystallized heart of an ancient flame demon. Radiates immense power.</string> <!-- untranslated -->
-    <string name="item_amulet_of_the_kraken_desc">A dark amulet pulsing with the Kraken\'s magical energy.</string> <!-- untranslated -->
-    <string name="item_silver_emerald_ring_desc">A silver ring with an emerald. Enhances ranged.</string> <!-- untranslated -->
-    <string name="item_silver_ruby_ring_desc">A silver ring with a ruby. Enhances melee.</string> <!-- untranslated -->
-    <string name="item_silver_diamond_ring_desc">A silver ring with a diamond. Balanced combat.</string> <!-- untranslated -->
+    <string name="item_tower_amulet_desc">Jimat yang berdenyut dengan kekuatan kuno menara.</string>
+    <string name="item_dragon_amulet_desc">Jimat kuat yang ditempa dari sisik naga. Meningkatkan semua gaya bertarung.</string>
+    <string name="item_flame_heart_amulet_desc">Jantung iblis api kuno yang mengkristal. Memancarkan kekuatan luar biasa.</string>
+    <string name="item_amulet_of_the_kraken_desc">Jimat gelap yang berdenyut dengan energi magis Kraken.</string>
+    <string name="item_silver_emerald_ring_desc">Cincin perak dengan zamrud. Meningkatkan Jarak Jauh.</string>
+    <string name="item_silver_ruby_ring_desc">Cincin perak dengan rubi. Meningkatkan jarak dekat.</string>
+    <string name="item_silver_diamond_ring_desc">Cincin perak dengan berlian. Pertarungan seimbang.</string>
     <string name="item_tower_ring_name">Tower Ring</string> <!-- untranslated -->
-    <string name="item_tower_ring_desc">A band forged from the stone of the infinite tower.</string> <!-- untranslated -->
-    <string name="item_ring_of_flame_desc">Forged in the fires of the deep earth. Those who wear it feel the Gothic Ember\'s strength.</string> <!-- untranslated -->
-    <string name="item_ring_of_dragons_might_desc">A ring imbued with dragonfire. Greatly increases melee strength.</string> <!-- untranslated -->
-    <string name="item_ring_of_the_seas_desc">A ring blessed by the deep sea. Enhances ranged precision and power.</string> <!-- untranslated -->
-    <string name="item_kraken_tentacle_desc">A coiling tentacle ring that channels the Kraken\'s arcane power.</string> <!-- untranslated -->
+    <string name="item_tower_ring_desc">Gelang yang ditempa dari batu menara tak terbatas.</string>
+    <string name="item_ring_of_flame_desc">Ditempa di api bumi yang dalam. Mereka yang memakainya merasakan kekuatan Gothic Ember.</string>
+    <string name="item_ring_of_dragons_might_desc">Cincin yang dipenuhi nafas api naga. Sangat meningkatkan kekuatan jarak dekat.</string>
+    <string name="item_ring_of_the_seas_desc">Cincin yang diberkati laut dalam. Meningkatkan presisi dan kekuatan jarak jauh.</string>
+    <string name="item_kraken_tentacle_desc">Cincin tentakel melingkar yang menyalurkan kekuatan gaib Kraken.</string>
     <string name="item_tower_cape_name">Tower Cape</string> <!-- untranslated -->
-    <string name="item_tower_cape_desc">A flowing cape that radiates the tower\'s energy.</string> <!-- untranslated -->
-    <string name="item_mining_cape_desc" formatted="false">Awarded for reaching level 99 Mining. Grants 10% more ore per session.</string> <!-- untranslated -->
-    <string name="item_construction_guild_cape_desc" formatted="false">Awarded for reaching Builders Guild level 10. Grants 5% more furniture per session.</string> <!-- untranslated -->
-    <string name="item_mining_guild_cape_desc" formatted="false">Awarded for reaching Mining Guild level 10. Grants 5% more ore per session.</string> <!-- untranslated -->
-    <string name="item_fishing_cape_desc" formatted="false">Awarded for reaching level 99 Fishing. Grants 10% more fish per session.</string> <!-- untranslated -->
-    <string name="item_fishing_guild_cape_desc" formatted="false">Awarded for reaching Fishing Guild level 10. Grants 5% more fish per session.</string> <!-- untranslated -->
-    <string name="item_woodcutting_cape_desc" formatted="false">Awarded for reaching level 99 Woodcutting. Grants 10% more logs per session.</string> <!-- untranslated -->
-    <string name="item_woodcutting_guild_cape_desc" formatted="false">Awarded for reaching Woodcutting Guild level 10. Grants 5% more logs per session.</string> <!-- untranslated -->
-    <string name="item_farming_cape_desc" formatted="false">Awarded for reaching level 99 Farming. Grants 10% more harvest per session.</string> <!-- untranslated -->
-    <string name="item_farming_guild_cape_desc" formatted="false">Awarded for reaching Farming Guild level 10. Grants 5% more harvest per session.</string> <!-- untranslated -->
+    <string name="item_tower_cape_desc">Jubah mengalir yang memancarkan energi menara.</string>
+    <string name="item_mining_cape_desc" formatted="false">Diberikan karena mencapai level 99 Pertambangan. Memberikan 10% lebih banyak bijih per sesi.</string>
+    <string name="item_construction_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pembangun. Memberikan 5% lebih banyak furnitur per sesi.</string>
+    <string name="item_mining_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Menambang. Memberikan 5% lebih banyak bijih per sesi.</string>
+    <string name="item_fishing_cape_desc" formatted="false">Diberikan karena mencapai level 99 Memancing. Memberikan 10% lebih banyak ikan per sesi.</string>
+    <string name="item_fishing_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Memancing. Memberikan 5% lebih banyak ikan per sesi.</string>
+    <string name="item_woodcutting_cape_desc" formatted="false">Diberikan karena mencapai level 99 Menebang Kayu. Memberikan 10% lebih banyak kayu gelondongan per sesi.</string>
+    <string name="item_woodcutting_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Penebang Pohon. Memberikan 5% lebih banyak kayu gelondongan per sesi.</string>
+    <string name="item_farming_cape_desc" formatted="false">Diberikan karena mencapai level 99 Bercocok Tanam. Memberikan 10% lebih banyak hasil panen per sesi.</string>
+    <string name="item_farming_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pertanian. Memberikan 5% lebih banyak hasil panen per sesi.</string>
     <string name="item_thieving_cape_name">Thieving Cape</string> <!-- untranslated -->
-    <string name="item_thieving_cape_desc" formatted="false">Awarded for reaching level 99 Thieving. Grants 10% more successful pickpockets per session.</string> <!-- untranslated -->
-    <string name="item_thieving_guild_cape_desc" formatted="false">Awarded for reaching Thieves Guild level 10. Grants 5% more successful pickpockets per session.</string> <!-- untranslated -->
-    <string name="item_smithing_cape_desc" formatted="false">Awarded for reaching level 99 Smithing. Grants 10% more items per session.</string> <!-- untranslated -->
-    <string name="item_smithing_guild_cape_desc" formatted="false">Awarded for reaching Smithing Guild level 10. Grants 5% more items per session.</string> <!-- untranslated -->
-    <string name="item_cooking_cape_desc" formatted="false">Awarded for reaching level 99 Cooking. Grants 10% more food per session.</string> <!-- untranslated -->
-    <string name="item_cooking_guild_cape_desc" formatted="false">Awarded for reaching Cooking Guild level 10. Grants 5% more food per session.</string> <!-- untranslated -->
-    <string name="item_fletching_cape_desc" formatted="false">Awarded for reaching level 99 Fletching. Grants 10% more arrows per session.</string> <!-- untranslated -->
-    <string name="item_fletching_guild_cape_desc" formatted="false">Awarded for reaching Fletching Guild level 10. Grants 5% more arrows per session.</string> <!-- untranslated -->
-    <string name="item_crafting_cape_desc" formatted="false">Awarded for reaching level 99 Crafting. Grants 10% more items per session.</string> <!-- untranslated -->
-    <string name="item_crafting_guild_cape_desc" formatted="false">Awarded for reaching Crafting Guild level 10. Grants 5% more items per session.</string> <!-- untranslated -->
-    <string name="item_firemaking_cape_desc" formatted="false">Awarded for reaching level 99 Firemaking. Grants 10% more ashes per session.</string> <!-- untranslated -->
-    <string name="item_firemaking_guild_cape_desc" formatted="false">Awarded for reaching Firemaking Guild level 10. Grants 5% more ashes per session.</string> <!-- untranslated -->
-    <string name="item_runecrafting_cape_desc" formatted="false">Awarded for reaching level 99 Runecrafting. Grants 10% more runes per session.</string> <!-- untranslated -->
-    <string name="item_runecrafting_guild_cape_desc" formatted="false">Awarded for reaching Runecrafting Guild level 10. Grants 5% more runes per session.</string> <!-- untranslated -->
+    <string name="item_thieving_cape_desc" formatted="false">Diberikan karena mencapai level 99 Mencuri. Memberikan 10% lebih banyak pencopetan yang berhasil per sesi.</string>
+    <string name="item_thieving_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pencuri. Memberikan 5% lebih banyak pencopetan yang berhasil per sesi.</string>
+    <string name="item_smithing_cape_desc" formatted="false">Diberikan karena mencapai level 99 Pandai Besi. Memberikan 10% lebih banyak barang per sesi.</string>
+    <string name="item_smithing_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pandai Besi. Memberikan 5% lebih banyak barang per sesi.</string>
+    <string name="item_cooking_cape_desc" formatted="false">Diberikan karena mencapai level 99 Memasak. Memberikan 10% lebih banyak makanan per sesi.</string>
+    <string name="item_cooking_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Memasak. Memberikan 5% lebih banyak makanan per sesi.</string>
+    <string name="item_fletching_cape_desc" formatted="false">Diberikan karena mencapai level 99 Pembuatan Panah. Memberikan 10% lebih banyak anak panah per sesi.</string>
+    <string name="item_fletching_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pengrajin Bulu. Memberikan 5% lebih banyak anak panah per sesi.</string>
+    <string name="item_crafting_cape_desc" formatted="false">Diberikan karena mencapai level 99 Kerajinan. Memberikan 10% lebih banyak barang per sesi.</string>
+    <string name="item_crafting_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Kerajinan. Memberikan 5% lebih banyak barang per sesi.</string>
+    <string name="item_firemaking_cape_desc" formatted="false">Diberikan karena mencapai level 99 Membuat Api. Memberikan 10% lebih banyak abu per sesi.</string>
+    <string name="item_firemaking_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pembuat Api. Memberikan 5% lebih banyak abu per sesi.</string>
+    <string name="item_runecrafting_cape_desc" formatted="false">Diberikan karena mencapai level 99 Pembuatan Rune. Memberikan 10% lebih banyak rune per sesi.</string>
+    <string name="item_runecrafting_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pembuat Rune. Memberikan 5% lebih banyak rune per sesi.</string>
     <string name="item_herblore_cape_name">Herblore Cape</string> <!-- untranslated -->
-    <string name="item_herblore_cape_desc" formatted="false">Awarded for reaching level 99 Herblore. Grants 10% more potions per session.</string> <!-- untranslated -->
-    <string name="item_herblore_guild_cape_desc" formatted="false">Awarded for reaching Herblore Guild level 10. Grants 5% more potions per session.</string> <!-- untranslated -->
+    <string name="item_herblore_cape_desc" formatted="false">Diberikan karena mencapai level 99 Ramuan. Memberikan 10% lebih banyak ramuan per sesi.</string>
+    <string name="item_herblore_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Ahli Herbal. Memberikan 5% lebih banyak ramuan per sesi.</string>
     <string name="item_construction_cape_name">Construction Cape</string> <!-- untranslated -->
-    <string name="item_construction_cape_desc" formatted="false">Awarded for reaching level 99 Construction. Grants 10% more items per session.</string> <!-- untranslated -->
-    <string name="item_prayer_cape_desc" formatted="false">Awarded for reaching level 99 Prayer. Strengthens your active blessing by 10%.</string> <!-- untranslated -->
-    <string name="item_prayer_guild_cape_desc" formatted="false">Awarded for reaching Prayer Guild level 10. Strengthens your active blessing by 5%.</string> <!-- untranslated -->
+    <string name="item_construction_cape_desc" formatted="false">Diberikan karena mencapai level 99 Konstruksi. Memberikan 10% lebih banyak barang per sesi.</string>
+    <string name="item_prayer_cape_desc" formatted="false">Diberikan karena mencapai level 99 Doa. Memperkuat berkat aktifmu sebesar 10%.</string>
+    <string name="item_prayer_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Doa. Memperkuat berkat aktifmu sebesar 5%.</string>
     <string name="item_mercantile_cape_name">Mercantile Cape</string> <!-- untranslated -->
-    <string name="item_mercantile_cape_desc" formatted="false">Awarded for reaching level 99 Mercantile. Grants 10% better shop prices and trade returns.</string> <!-- untranslated -->
-    <string name="item_mercantile_guild_cape_desc" formatted="false">Awarded for reaching Merchants Guild level 10. Grants 5% better shop prices and trade returns.</string> <!-- untranslated -->
-    <string name="item_agility_cape_desc" formatted="false">Awarded for reaching level 99 Agility. Grants 10% more XP per session.</string> <!-- untranslated -->
-    <string name="item_agility_guild_cape_desc" formatted="false">Awarded for reaching Agility Guild level 10. Grants 5% more XP per session.</string> <!-- untranslated -->
+    <string name="item_mercantile_cape_desc" formatted="false">Diberikan karena mencapai level 99 Perdagangan. Memberikan harga toko dan pengembalian perdagangan 10% lebih baik.</string>
+    <string name="item_mercantile_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pedagang. Memberikan harga toko dan pengembalian perdagangan 5% lebih baik.</string>
+    <string name="item_agility_cape_desc" formatted="false">Diberikan karena mencapai level 99 Ketangkasan. Memberikan 10% lebih banyak XP per sesi.</string>
+    <string name="item_agility_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Kelincahan. Memberikan 5% lebih banyak XP per sesi.</string>
     <string name="item_slayer_cape_name">Slayer Cape</string> <!-- untranslated -->
-    <string name="item_slayer_cape_desc" formatted="false">Awarded for reaching level 99 Slayer. Grants 10% more Slayer points.</string> <!-- untranslated -->
-    <string name="item_attack_cape_desc" formatted="false">Awarded for reaching level 99 Attack. Grants 10% bonus Attack XP.</string> <!-- untranslated -->
-    <string name="item_strength_cape_desc" formatted="false">Awarded for reaching level 99 Strength. Grants 10% bonus Strength XP.</string> <!-- untranslated -->
-    <string name="item_defense_cape_desc" formatted="false">Awarded for reaching level 99 Defense. Grants 10% bonus Defense XP.</string> <!-- untranslated -->
-    <string name="item_warriors_guild_cape_desc" formatted="false">Awarded for reaching Warriors Guild level 10. Grants 5% bonus Attack, Strength, and Defense XP.</string> <!-- untranslated -->
-    <string name="item_ranged_cape_desc" formatted="false">Awarded for reaching level 99 Ranged. Grants 10% bonus Ranged XP.</string> <!-- untranslated -->
-    <string name="item_archers_guild_cape_desc" formatted="false">Awarded for reaching Archers Guild level 10. Grants 5% bonus Ranged XP.</string> <!-- untranslated -->
-    <string name="item_magic_cape_desc" formatted="false">Awarded for reaching level 99 Magic. Grants 10% bonus Magic XP.</string> <!-- untranslated -->
-    <string name="item_mages_guild_cape_desc" formatted="false">Awarded for reaching Mages Guild level 10. Grants 5% bonus Magic XP.</string> <!-- untranslated -->
-    <string name="item_slayer_guild_cape_desc" formatted="false">Awarded for reaching Slayers Guild level 10. Grants 5% bonus Slayer XP.</string> <!-- untranslated -->
-    <string name="item_hp_cape_desc" formatted="false">Awarded for reaching level 99 HP. Grants 10% bonus Hitpoints XP.</string> <!-- untranslated -->
-    <string name="item_deep_iron_pickaxe_desc">Forged from ore found in the Collapsed Mine\'s deepest shafts. Strikes with uncanny precision.</string> <!-- untranslated -->
-    <string name="item_dwarven_pickaxe_desc">A masterwork dwarven pickaxe. The finest mining tool ever crafted.</string> <!-- untranslated -->
-    <string name="item_forge_pickaxe_desc">Tempered in the flames of the Ancient Forge itself. The rarest and most powerful pickaxe in existence.</string> <!-- untranslated -->
-    <string name="item_ironwood_axe_desc">Hewn from the ironwood trees that once stood in the Ancient Forest Ruins. Exceptionally durable.</string> <!-- untranslated -->
-    <string name="item_dwarven_axe_desc">A legendary dwarven axe. Cuts through any tree with ease.</string> <!-- untranslated -->
-    <string name="item_sanctum_axe_desc">Forged in the shadow of the Corrupted Sanctum. Its blade cuts through even magic logs with ease.</string> <!-- untranslated -->
-    <string name="item_blessed_fishing_rod_desc">Crafted from driftwood recovered from the Drowned Temple, blessed by ancient sea rites.</string> <!-- untranslated -->
-    <string name="item_dwarven_fishing_rod_desc">A dwarven-crafted fishing rod. Practically hauls fish out of the water.</string> <!-- untranslated -->
-    <string name="item_abyssal_rod_desc">Woven from void-touched filament recovered from the Abyssal Ruins. Fish practically leap onto it.</string> <!-- untranslated -->
-    <string name="item_bronze_hoe_desc">A basic bronze hoe. Slightly increases harvest yield.</string> <!-- untranslated -->
-    <string name="item_iron_hoe_desc">An iron hoe. Increases harvest yield.</string> <!-- untranslated -->
-    <string name="item_steel_hoe_desc">A steel hoe. Noticeably increases harvest yield.</string> <!-- untranslated -->
-    <string name="item_mithril_hoe_desc">A mithril hoe. Greatly increases harvest yield.</string> <!-- untranslated -->
-    <string name="item_adamantite_hoe_desc">An adamantite hoe. Substantially increases harvest yield.</string> <!-- untranslated -->
-    <string name="item_runite_hoe_desc">A runite hoe. The finest farming tool available.</string> <!-- untranslated -->
-    <string name="item_dwarven_hoe_desc">A legendary dwarven hoe. Doubles the harvest of any crop.</string> <!-- untranslated -->
-    <string name="item_divine_hoe_desc">A hoe blessed by divine light. Crops flourish at its touch.</string> <!-- untranslated -->
-    <string name="item_bronze_hammer_desc">A bronze hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_iron_hammer_desc">An iron hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_steel_hammer_desc">A steel hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_mithril_hammer_desc">A mithril hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_adamantite_hammer_desc">An adamantite hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_runite_hammer_desc">A runite hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_dwarven_hammer_desc">A dwarven-forged hammer. Strikes true every time.</string> <!-- untranslated -->
-    <string name="item_divine_hammer_desc">A hammer touched by divine light. Metal bends to its will.</string> <!-- untranslated -->
-    <string name="item_bronze_tinderbox_desc">A bronze tinderbox for firemaking.</string> <!-- untranslated -->
-    <string name="item_iron_tinderbox_desc">An iron tinderbox for firemaking.</string> <!-- untranslated -->
-    <string name="item_steel_tinderbox_desc">A steel tinderbox for firemaking.</string> <!-- untranslated -->
-    <string name="item_mithril_tinderbox_desc">A mithril tinderbox for firemaking.</string> <!-- untranslated -->
-    <string name="item_adamantite_tinderbox_desc">An adamantite tinderbox for firemaking.</string> <!-- untranslated -->
-    <string name="item_runite_tinderbox_desc">A runite tinderbox for firemaking.</string> <!-- untranslated -->
-    <string name="item_dwarven_tinderbox_desc">A dwarven-forged tinderbox. Sparks a roaring flame instantly.</string> <!-- untranslated -->
-    <string name="item_divine_tinderbox_desc">A tinderbox touched by divine light. Kindles flame from the faintest spark.</string> <!-- untranslated -->
-    <string name="item_bronze_grappling_hook_desc">A bronze grappling hook for agility.</string> <!-- untranslated -->
-    <string name="item_iron_grappling_hook_desc">An iron grappling hook for agility.</string> <!-- untranslated -->
-    <string name="item_steel_grappling_hook_desc">A steel grappling hook for agility.</string> <!-- untranslated -->
-    <string name="item_mithril_grappling_hook_desc">A mithril grappling hook for agility.</string> <!-- untranslated -->
-    <string name="item_adamantite_grappling_hook_desc">An adamantite grappling hook for agility.</string> <!-- untranslated -->
-    <string name="item_runite_grappling_hook_desc">A runite grappling hook for agility.</string> <!-- untranslated -->
-    <string name="item_shadow_grappling_hook_desc">A grappling hook woven from shadow. Grips even where there\'s nothing to grip.</string> <!-- untranslated -->
-    <string name="item_dwarven_grappling_hook_desc">A dwarven-forged grappling hook. Never slips.</string> <!-- untranslated -->
-    <string name="item_arcane_grappling_hook_desc">A grappling hook humming with arcane energy. Pulls you across gaps in an instant.</string> <!-- untranslated -->
-    <string name="item_divine_grappling_hook_desc">A grappling hook touched by divine light. Finds purchase anywhere it\'s thrown.</string> <!-- untranslated -->
-    <string name="item_bronze_frying_pan_desc">A bronze frying pan for cooking.</string> <!-- untranslated -->
-    <string name="item_iron_frying_pan_desc">An iron frying pan for cooking.</string> <!-- untranslated -->
-    <string name="item_steel_frying_pan_desc">A steel frying pan for cooking.</string> <!-- untranslated -->
-    <string name="item_mithril_frying_pan_desc">A mithril frying pan for cooking.</string> <!-- untranslated -->
-    <string name="item_adamantite_frying_pan_desc">An adamantite frying pan for cooking.</string> <!-- untranslated -->
-    <string name="item_runite_frying_pan_desc">A runite frying pan for cooking.</string> <!-- untranslated -->
-    <string name="item_dwarven_frying_pan_desc">A dwarven-forged frying pan. Cooks food to perfection every time.</string> <!-- untranslated -->
-    <string name="item_divine_frying_pan_desc">A frying pan touched by divine light. Never burns a single meal.</string> <!-- untranslated -->
-    <string name="item_bronze_lockpick_desc">A basic bronze lockpick for thieving.</string> <!-- untranslated -->
-    <string name="item_iron_lockpick_desc">An iron lockpick for thieving.</string> <!-- untranslated -->
-    <string name="item_steel_lockpick_desc">A steel lockpick for thieving.</string> <!-- untranslated -->
-    <string name="item_mithril_lockpick_desc">A mithril lockpick for thieving.</string> <!-- untranslated -->
-    <string name="item_adamantite_lockpick_desc">An adamantite lockpick for thieving.</string> <!-- untranslated -->
-    <string name="item_runite_lockpick_desc">A runite lockpick for thieving.</string> <!-- untranslated -->
-    <string name="item_rogues_lockpick_desc">A well-worn lockpick favored by the guild\'s rogues. Slips into any lock.</string> <!-- untranslated -->
-    <string name="item_dwarven_lockpick_desc">A dwarven-forged lockpick. Finds the tumblers instantly.</string> <!-- untranslated -->
-    <string name="item_shadow_lockpick_desc">A lockpick forged from shadow. No lock can resist it for long.</string> <!-- untranslated -->
-    <string name="item_divine_lockpick_desc">A lockpick touched by divine light. Every lock yields to it.</string> <!-- untranslated -->
-    <string name="item_wraithbone_ring_desc">A pale ring carved from wight bone during the Gloomharvest. Steadies the hand and the heart.</string> <!-- untranslated -->
-    <string name="item_reaper_scythe_desc">The Hollow King\'s own harvest tool. It reaps more than wheat.</string> <!-- untranslated -->
-    <string name="item_gloomweave_cape_desc">Woven from dusk and lantern smoke at the Night Market. Only sold during the Gloomharvest.</string> <!-- untranslated -->
-    <string name="item_gilded_full_helmet_desc">A runite full helmet wrapped in monument gold. Dropped by the Vault Guardian.</string> <!-- untranslated -->
-    <string name="item_gilded_platebody_desc">A runite platebody wrapped in monument gold. Dropped by the Vault Guardian.</string> <!-- untranslated -->
-    <string name="item_gilded_kiteshield_desc">A runite kiteshield wrapped in monument gold. Dropped by the Vault Guardian.</string> <!-- untranslated -->
+    <string name="item_slayer_cape_desc" formatted="false">Diberikan karena mencapai level 99 Penumpas. Memberikan 10% lebih banyak poin Penumpas.</string>
+    <string name="item_attack_cape_desc" formatted="false">Diberikan karena mencapai level 99 Serangan. Memberikan bonus XP Serangan 10%.</string>
+    <string name="item_strength_cape_desc" formatted="false">Diberikan karena mencapai level 99 Kekuatan. Memberikan bonus XP Kekuatan 10%.</string>
+    <string name="item_defense_cape_desc" formatted="false">Diberikan karena mencapai level 99 Pertahanan. Memberikan bonus XP Pertahanan 10%.</string>
+    <string name="item_warriors_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Prajurit. Memberikan bonus XP Serangan, Kekuatan, dan Pertahanan 5%.</string>
+    <string name="item_ranged_cape_desc" formatted="false">Diberikan karena mencapai level 99 Jarak Jauh. Memberikan bonus XP Jarak Jauh 10%.</string>
+    <string name="item_archers_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Pemanah. Memberikan bonus XP Jarak Jauh 5%.</string>
+    <string name="item_magic_cape_desc" formatted="false">Diberikan karena mencapai level 99 Sihir. Memberikan bonus XP Sihir 10%.</string>
+    <string name="item_mages_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Penyihir. Memberikan bonus XP Sihir 5%.</string>
+    <string name="item_slayer_guild_cape_desc" formatted="false">Diberikan karena mencapai level 10 Serikat Penumpas. Memberikan bonus XP Penumpas 5%.</string>
+    <string name="item_hp_cape_desc" formatted="false">Diberikan karena mencapai level 99 HP. Memberikan bonus XP Poin Nyawa 10%.</string>
+    <string name="item_deep_iron_pickaxe_desc">Ditempa dari bijih yang ditemukan di poros terdalam Tambang Runtuh. Menyerang dengan presisi yang luar biasa.</string>
+    <string name="item_dwarven_pickaxe_desc">Beliung kurcaci buatan mahakarya. Alat pertambangan terbaik yang pernah dibuat.</string>
+    <string name="item_forge_pickaxe_desc">Ditempa dalam api Tempa Kuno itu sendiri. Beliung paling langka dan terkuat yang pernah ada.</string>
+    <string name="item_ironwood_axe_desc">Diukir dari pohon kayu besi yang pernah berdiri di Reruntuhan Hutan Kuno. Luar biasa tahan lama.</string>
+    <string name="item_dwarven_axe_desc">Kapak kurcaci legendaris. Menebang pohon apa pun dengan mudah.</string>
+    <string name="item_sanctum_axe_desc">Ditempa dalam bayangan Suaka Terkorupsi. Bilahnya menebas bahkan kayu ajaib dengan mudah.</string>
+    <string name="item_blessed_fishing_rod_desc">Dibuat dari kayu apung yang ditemukan dari Kuil Tenggelam, diberkati ritual laut kuno.</string>
+    <string name="item_dwarven_fishing_rod_desc">Joran pancing buatan kurcaci. Praktis menarik ikan keluar dari air.</string>
+    <string name="item_abyssal_rod_desc">Dianyam dari filamen tersentuh hampa yang ditemukan dari Reruntuhan Abyssal. Ikan-ikan hampir melompat ke atasnya.</string>
+    <string name="item_bronze_hoe_desc">Cangkul perunggu dasar. Sedikit meningkatkan hasil panen.</string>
+    <string name="item_iron_hoe_desc">Cangkul besi. Meningkatkan hasil panen.</string>
+    <string name="item_steel_hoe_desc">Cangkul baja. Meningkatkan hasil panen secara nyata.</string>
+    <string name="item_mithril_hoe_desc">Cangkul mithril. Sangat meningkatkan hasil panen.</string>
+    <string name="item_adamantite_hoe_desc">Cangkul adamantit. Meningkatkan hasil panen secara substansial.</string>
+    <string name="item_runite_hoe_desc">Cangkul runit. Alat bercocok tanam terbaik yang tersedia.</string>
+    <string name="item_dwarven_hoe_desc">Cangkul kurcaci legendaris. Menggandakan hasil panen tanaman apa pun.</string>
+    <string name="item_divine_hoe_desc">Cangkul yang diberkati cahaya ilahi. Tanaman tumbuh subur saat tersentuh.</string>
+    <string name="item_bronze_hammer_desc">Palu perunggu untuk pandai besi.</string>
+    <string name="item_iron_hammer_desc">Palu besi untuk pandai besi.</string>
+    <string name="item_steel_hammer_desc">Palu baja untuk pandai besi.</string>
+    <string name="item_mithril_hammer_desc">Palu mithril untuk pandai besi.</string>
+    <string name="item_adamantite_hammer_desc">Palu adamantit untuk pandai besi.</string>
+    <string name="item_runite_hammer_desc">Palu runit untuk pandai besi.</string>
+    <string name="item_dwarven_hammer_desc">Palu tempaan kurcaci. Mengenai sasaran setiap saat.</string>
+    <string name="item_divine_hammer_desc">Palu yang tersentuh cahaya ilahi. Logam tunduk pada kehendaknya.</string>
+    <string name="item_bronze_tinderbox_desc">Kotak api perunggu untuk membuat api.</string>
+    <string name="item_iron_tinderbox_desc">Kotak api besi untuk membuat api.</string>
+    <string name="item_steel_tinderbox_desc">Kotak api baja untuk membuat api.</string>
+    <string name="item_mithril_tinderbox_desc">Kotak api mithril untuk membuat api.</string>
+    <string name="item_adamantite_tinderbox_desc">Kotak api adamantit untuk membuat api.</string>
+    <string name="item_runite_tinderbox_desc">Kotak api runit untuk membuat api.</string>
+    <string name="item_dwarven_tinderbox_desc">Kotak api tempaan kurcaci. Memantik api berkobar seketika.</string>
+    <string name="item_divine_tinderbox_desc">Kotak api yang tersentuh cahaya ilahi. Menyalakan api dari percikan sekecil apa pun.</string>
+    <string name="item_bronze_grappling_hook_desc">Kait bergulat perunggu untuk ketangkasan.</string>
+    <string name="item_iron_grappling_hook_desc">Kait bergulat besi untuk ketangkasan.</string>
+    <string name="item_steel_grappling_hook_desc">Kait bergulat baja untuk ketangkasan.</string>
+    <string name="item_mithril_grappling_hook_desc">Kait bergulat mithril untuk ketangkasan.</string>
+    <string name="item_adamantite_grappling_hook_desc">Kait bergulat adamantit untuk ketangkasan.</string>
+    <string name="item_runite_grappling_hook_desc">Kait bergulat runit untuk ketangkasan.</string>
+    <string name="item_shadow_grappling_hook_desc">Kait bergulat yang dianyam dari bayangan. Mencengkeram bahkan di tempat yang tak ada yang bisa dicengkeram.</string>
+    <string name="item_dwarven_grappling_hook_desc">Kait bergulat tempaan kurcaci. Tidak pernah terlepas.</string>
+    <string name="item_arcane_grappling_hook_desc">Kait bergulat yang berdengung dengan energi gaib. Menarikmu melewati celah dalam sekejap.</string>
+    <string name="item_divine_grappling_hook_desc">Kait bergulat yang tersentuh cahaya ilahi. Menemukan pegangan di mana pun ia dilempar.</string>
+    <string name="item_bronze_frying_pan_desc">Wajan perunggu untuk memasak.</string>
+    <string name="item_iron_frying_pan_desc">Wajan besi untuk memasak.</string>
+    <string name="item_steel_frying_pan_desc">Wajan baja untuk memasak.</string>
+    <string name="item_mithril_frying_pan_desc">Wajan mithril untuk memasak.</string>
+    <string name="item_adamantite_frying_pan_desc">Wajan adamantit untuk memasak.</string>
+    <string name="item_runite_frying_pan_desc">Wajan runit untuk memasak.</string>
+    <string name="item_dwarven_frying_pan_desc">Wajan tempaan kurcaci. Memasak makanan hingga sempurna setiap saat.</string>
+    <string name="item_divine_frying_pan_desc">Wajan yang tersentuh cahaya ilahi. Tidak pernah membakar satu pun makanan.</string>
+    <string name="item_bronze_lockpick_desc">Pembuka kunci perunggu dasar untuk mencuri.</string>
+    <string name="item_iron_lockpick_desc">Pembuka kunci besi untuk mencuri.</string>
+    <string name="item_steel_lockpick_desc">Pembuka kunci baja untuk mencuri.</string>
+    <string name="item_mithril_lockpick_desc">Pembuka kunci mithril untuk mencuri.</string>
+    <string name="item_adamantite_lockpick_desc">Pembuka kunci adamantit untuk mencuri.</string>
+    <string name="item_runite_lockpick_desc">Pembuka kunci runit untuk mencuri.</string>
+    <string name="item_rogues_lockpick_desc">Pembuka kunci usang yang digemari para pencuri persekutuan. Mudah membuka kunci apa pun.</string>
+    <string name="item_dwarven_lockpick_desc">Pembuka kunci tempaan kurcaci. Menemukan mekanisme kunci seketika.</string>
+    <string name="item_shadow_lockpick_desc">Pembuka kunci yang ditempa dari bayangan. Tidak ada kunci yang bisa menahannya lama.</string>
+    <string name="item_divine_lockpick_desc">Pembuka kunci yang tersentuh cahaya ilahi. Setiap kunci menyerah padanya.</string>
+    <string name="item_wraithbone_ring_desc">Cincin pucat yang diukir dari tulang hantu selama Panen Kelam. Menenangkan tangan dan hati.</string>
+    <string name="item_reaper_scythe_desc">Alat panen milik Raja Hampa itu sendiri. Ia memanen lebih dari sekadar gandum.</string>
+    <string name="item_gloomweave_cape_desc">Dianyam dari senja dan asap lentera di Pasar Malam. Hanya dijual selama Panen Kelam.</string>
+    <string name="item_gilded_full_helmet_desc">Helm penuh runit yang dibalut emas monumen. Dijatuhkan oleh Penjaga Brankas.</string>
+    <string name="item_gilded_platebody_desc">Baju zirah runit yang dibalut emas monumen. Dijatuhkan oleh Penjaga Brankas.</string>
+    <string name="item_gilded_kiteshield_desc">Perisai layang-layang runit yang dibalut emas monumen. Dijatuhkan oleh Penjaga Brankas.</string>
     <string name="item_wind_strike_name">Wind Strike</string> <!-- untranslated -->
-    <string name="item_wind_strike_desc">A basic air spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_wind_strike_desc">Mantra udara dasar yang menyerang musuhmu.</string>
     <string name="item_wind_bolt_name">Wind Bolt</string> <!-- untranslated -->
-    <string name="item_wind_bolt_desc">A moderate air spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_wind_bolt_desc">Mantra udara sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_wind_blast_name">Wind Blast</string> <!-- untranslated -->
-    <string name="item_wind_blast_desc">A powerful air spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_wind_blast_desc">Mantra udara kuat yang meledakkan musuhmu.</string>
     <string name="item_wind_wave_name">Wind Wave</string> <!-- untranslated -->
-    <string name="item_wind_wave_desc">A devastating air spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_wind_wave_desc">Mantra udara dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_water_strike_name">Water Strike</string> <!-- untranslated -->
-    <string name="item_water_strike_desc">A basic water spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_water_strike_desc">Mantra air dasar yang menyerang musuhmu.</string>
     <string name="item_water_bolt_name">Water Bolt</string> <!-- untranslated -->
-    <string name="item_water_bolt_desc">A moderate water spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_water_bolt_desc">Mantra air sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_water_blast_name">Water Blast</string> <!-- untranslated -->
-    <string name="item_water_blast_desc">A powerful water spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_water_blast_desc">Mantra air kuat yang meledakkan musuhmu.</string>
     <string name="item_water_wave_name">Water Wave</string> <!-- untranslated -->
-    <string name="item_water_wave_desc">A devastating water spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_water_wave_desc">Mantra air dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_earth_strike_name">Earth Strike</string> <!-- untranslated -->
-    <string name="item_earth_strike_desc">A basic earth spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_earth_strike_desc">Mantra tanah dasar yang menyerang musuhmu.</string>
     <string name="item_earth_bolt_name">Earth Bolt</string> <!-- untranslated -->
-    <string name="item_earth_bolt_desc">A moderate earth spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_earth_bolt_desc">Mantra tanah sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_earth_blast_name">Earth Blast</string> <!-- untranslated -->
-    <string name="item_earth_blast_desc">A powerful earth spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_earth_blast_desc">Mantra tanah kuat yang meledakkan musuhmu.</string>
     <string name="item_earth_wave_name">Earth Wave</string> <!-- untranslated -->
-    <string name="item_earth_wave_desc">A devastating earth spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_earth_wave_desc">Mantra tanah dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_fire_strike_name">Fire Strike</string> <!-- untranslated -->
-    <string name="item_fire_strike_desc">A basic fire spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_fire_strike_desc">Mantra api dasar yang menyerang musuhmu.</string>
     <string name="item_fire_bolt_name">Fire Bolt</string> <!-- untranslated -->
-    <string name="item_fire_bolt_desc">A moderate fire spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_fire_bolt_desc">Mantra api sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_fire_blast_name">Fire Blast</string> <!-- untranslated -->
-    <string name="item_fire_blast_desc">A powerful fire spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_fire_blast_desc">Mantra api kuat yang meledakkan musuhmu.</string>
     <string name="item_fire_wave_name">Fire Wave</string> <!-- untranslated -->
-    <string name="item_fire_wave_desc">A devastating fire spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_fire_wave_desc">Mantra api dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_mind_strike_name">Mind Strike</string> <!-- untranslated -->
-    <string name="item_mind_strike_desc">A basic mind spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_mind_strike_desc">Mantra pikiran dasar yang menyerang musuhmu.</string>
     <string name="item_mind_bolt_name">Mind Bolt</string> <!-- untranslated -->
-    <string name="item_mind_bolt_desc">A moderate mind spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_mind_bolt_desc">Mantra pikiran sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_mind_blast_name">Mind Blast</string> <!-- untranslated -->
-    <string name="item_mind_blast_desc">A powerful mind spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_mind_blast_desc">Mantra pikiran kuat yang meledakkan musuhmu.</string>
     <string name="item_mind_wave_name">Mind Wave</string> <!-- untranslated -->
-    <string name="item_mind_wave_desc">A devastating mind spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_mind_wave_desc">Mantra pikiran dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_chaos_strike_name">Chaos Strike</string> <!-- untranslated -->
-    <string name="item_chaos_strike_desc">A basic chaos spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_chaos_strike_desc">Mantra kekacauan dasar yang menyerang musuhmu.</string>
     <string name="item_chaos_bolt_name">Chaos Bolt</string> <!-- untranslated -->
-    <string name="item_chaos_bolt_desc">A moderate chaos spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_chaos_bolt_desc">Mantra kekacauan sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_chaos_blast_name">Chaos Blast</string> <!-- untranslated -->
-    <string name="item_chaos_blast_desc">A powerful chaos spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_chaos_blast_desc">Mantra kekacauan kuat yang meledakkan musuhmu.</string>
     <string name="item_chaos_wave_name">Chaos Wave</string> <!-- untranslated -->
-    <string name="item_chaos_wave_desc">A devastating chaos spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_chaos_wave_desc">Mantra kekacauan dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_death_strike_name">Death Strike</string> <!-- untranslated -->
-    <string name="item_death_strike_desc">A basic death spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_death_strike_desc">Mantra kematian dasar yang menyerang musuhmu.</string>
     <string name="item_death_bolt_name">Death Bolt</string> <!-- untranslated -->
-    <string name="item_death_bolt_desc">A moderate death spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_death_bolt_desc">Mantra kematian sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_death_blast_name">Death Blast</string> <!-- untranslated -->
-    <string name="item_death_blast_desc">A powerful death spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_death_blast_desc">Mantra kematian kuat yang meledakkan musuhmu.</string>
     <string name="item_death_wave_name">Death Wave</string> <!-- untranslated -->
-    <string name="item_death_wave_desc">A devastating death spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_death_wave_desc">Mantra kematian dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_blood_strike_name">Blood Strike</string> <!-- untranslated -->
-    <string name="item_blood_strike_desc">A basic blood spell that strikes your foe.</string> <!-- untranslated -->
+    <string name="item_blood_strike_desc">Mantra darah dasar yang menyerang musuhmu.</string>
     <string name="item_blood_bolt_name">Blood Bolt</string> <!-- untranslated -->
-    <string name="item_blood_bolt_desc">A moderate blood spell that bolts your foe.</string> <!-- untranslated -->
+    <string name="item_blood_bolt_desc">Mantra darah sedang yang meluncurkan panah ke musuhmu.</string>
     <string name="item_blood_blast_name">Blood Blast</string> <!-- untranslated -->
-    <string name="item_blood_blast_desc">A powerful blood spell that blasts your foe.</string> <!-- untranslated -->
+    <string name="item_blood_blast_desc">Mantra darah kuat yang meledakkan musuhmu.</string>
     <string name="item_blood_wave_name">Blood Wave</string> <!-- untranslated -->
-    <string name="item_blood_wave_desc">A devastating blood spell that waves across your foe.</string> <!-- untranslated -->
+    <string name="item_blood_wave_desc">Mantra darah dahsyat yang menghantam gelombang ke musuhmu.</string>
     <string name="item_spirit_herb_name">Spirit Herb</string> <!-- untranslated -->
-    <string name="item_spirit_herb_desc">A rare herb used in high-level herblore. Requires Mercantile level 20 to purchase.</string> <!-- untranslated -->
+    <string name="item_spirit_herb_desc">Herba langka yang digunakan dalam pembuatan ramuan tingkat tinggi. Membutuhkan level Perdagangan 20 untuk dibeli.</string>
     <string name="item_celestial_bloom_name">Celestial Bloom</string> <!-- untranslated -->
-    <string name="item_celestial_bloom_desc">An ethereal flower used in master potions. Requires Mercantile level 40 to purchase.</string> <!-- untranslated -->
+    <string name="item_celestial_bloom_desc">Bunga halus yang digunakan dalam ramuan master. Membutuhkan level Perdagangan 40 untuk dibeli.</string>
     <string name="item_void_lotus_name">Void Lotus</string> <!-- untranslated -->
-    <string name="item_void_lotus_desc">A mysterious lotus used in the rarest concoctions. Requires Mercantile level 60 to purchase.</string> <!-- untranslated -->
+    <string name="item_void_lotus_desc">Teratai misterius yang digunakan dalam ramuan paling langka. Membutuhkan level Perdagangan 60 untuk dibeli.</string>
     <string name="crop_magic_bean_name">Magic Bean</string> <!-- untranslated -->
 </resources>
